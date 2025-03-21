@@ -22,3 +22,7 @@ or
 
 Visit the link here to view walkthrough video: https://drive.google.com/file/d/1mf8XnF9VMhG_c21KiVREr6JwbSTM1GJP/view
 
+## Resources
+<a href="https://stackoverflow.com/questions/62761424/how-to-create-a-database-diagrams-in-visual-studio-code">Stack Overflow</a>
+<a href="https://www.freecodecamp.org/news/what-is-an-orm-the-meaning-of-object-relational-mapping-database-tools/">Free Code Camp</a>
+<a href="https://docs.sqlalchemy.org/en/20/orm/examples.html">SQL Alchemy</a>
